@@ -2,10 +2,10 @@
 
 # زرینو - اپلیکیشن اندروید فارسی
 
-![پلتفرم](https://img.shields.io/badge/پلتفرم-اندروید-green)
-![زبان](https://img.shields.io/badge/زبان-کاتلین-blue)
-![رابط کاربری](https://img.shields.io/badge/رابط_کاربری-Jetpack%20Compose-orange)
-![مجوز](https://img.shields.io/badge/مجوز-MIT-blue)
+![Platform](https://img.shields.io/badge/platform-Android-green)
+![Language](https://img.shields.io/badge/language-Kotlin-blue)
+![UI](https://img.shields.io/badge/UI-Jetpack%20Compose-orange)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 زرینو یک اپلیکیشن اندروید بر پایه زبان فارسی است که با کاتلین، جتپک کامپوز و طراحی متریال ساخته شده است. این برنامه دارای طراحی با اندازه ثابت است که در تمام دستگاه های موبایل به طور یکسان کار می کند و پشتیبانی کامل از راست به چپ (RTL) را برای زبان فارسی دارد.
 
