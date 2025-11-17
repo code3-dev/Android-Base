@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Zarino" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Force RTL layout -->
+        <item name="android:layoutDirection">rtl</item>
+        <!-- Ensure proper text alignment for RTL -->
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+</resources>

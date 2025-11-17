@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">زرینو</string>
+    <string name="hello_world">سلام دنیا!</string>
+    <string name="welcome_message">به %1$s خوش آمدید</string>
+    <string name="home">خانه</string>
+    <string name="search">جستجو</string>
+    <string name="favorites">مورد علاقه</string>
+    <string name="profile">پروفایل</string>
+    <string name="settings">تنظیمات</string>
+</resources>
