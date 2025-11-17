@@ -9,7 +9,7 @@ Zarino is a Persian-based Android application built with Kotlin, Jetpack Compose
 
 ## Features
 
-- 🇮🇷 **Fully Persian localized** - All UI elements and content in Persian
+- 🦁 **Fully Persian localized** - All UI elements and content in Persian
 - 📱 **Fixed layout design** - Consistent appearance across all device sizes
 - 🎨 **Material Design** - Modern UI with Material Design components
 - 🖋️ **Custom Persian fonts** - Uses Vazirmatn font family for authentic Persian typography
